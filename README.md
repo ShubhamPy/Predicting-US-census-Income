@@ -3,7 +3,7 @@ Build a classification model based on the features that you select to predict if
 
 ## Prerequisites:
 I would highly recommend that before the hack night you have some kind of toolchain and development environment already installed and ready. If you have no idea where to start with this, try a combination like:
-- Python
+* Python
 * scikit-learn / sklearn
 * Pandas
 * NumPy
@@ -14,3 +14,13 @@ I would highly recommend that before the hack night you have some kind of toolch
 ## Dataset:
 The dataset is in the form of a csv file and the link to download is given below:
 ###### Link: https://drive.google.com/file/d/1J9yQCKYAtzbO75_ApTNLGUceywQzfm_Y/view?usp=sharing
+
+## WorkFlow:
+- [] Perform data cleaning using pandas library. Which includes replacing the miscoded information and handling missing data.
+- [] Make a Exploratory Data Analysis on the data using pandas.
+- [] Visualize distributions and correlation of features using seaborn and pandas
+- [] Build a classification model for the classification of income.
+- [] Try different classifiers and compare the accuracy of all the classifiers.
+
+
+
