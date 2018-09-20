@@ -13,8 +13,7 @@ I would highly recommend that before the hack night you have some kind of toolch
 
 ## Dataset:
 The data here is for the "Census Income" dataset, which contains data on adults from the 1994 census. This data is labeled with whether the person's yearly income is above or below $50K.
-The dataset is in the form of a csv file and the link to download is given below:
-###### Link: https://drive.google.com/file/d/1J9yQCKYAtzbO75_ApTNLGUceywQzfm_Y/view?usp=sharing
+###### The dataset is in the form of a csv file you can [download] (https://drive.google.com/file/d/1J9yQCKYAtzbO75_ApTNLGUceywQzfm_Y/view?usp=sharing) here.
 
 ## WorkFlow:
 - [ ] Perform data cleaning using pandas library. Which includes replacing the miscoded information and handling missing data.
