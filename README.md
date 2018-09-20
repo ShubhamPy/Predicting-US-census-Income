@@ -16,11 +16,8 @@ The dataset is in the form of a csv file and the link to download is given below
 ###### Link: https://drive.google.com/file/d/1J9yQCKYAtzbO75_ApTNLGUceywQzfm_Y/view?usp=sharing
 
 ## WorkFlow:
-- [] Perform data cleaning using pandas library. Which includes replacing the miscoded information and handling missing data.
-- [] Make a Exploratory Data Analysis on the data using pandas.
-- [] Visualize distributions and correlation of features using seaborn and pandas
-- [] Build a classification model for the classification of income.
-- [] Try different classifiers and compare the accuracy of all the classifiers.
-
-
-
+- [ ] Perform data cleaning using pandas library. Which includes replacing the miscoded information and handling missing data.
+- [ ] Make a Exploratory Data Analysis on the data using pandas.
+- [ ] Visualize distributions and correlation of features using seaborn and pandas
+- [ ] Build a classification model for the classification of income.
+- [ ] Try different classifiers and compare the accuracy of all the classifiers.
