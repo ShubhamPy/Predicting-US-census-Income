@@ -28,4 +28,4 @@ The data here is for the "Census Income" dataset, which contains data on adults 
 - [x] Try different classifiers and compare the accuracy of all the classifiers.
 ## Results:
 ![alt text](https://github.com/ShubhamPy/Predicting-US-census-Income/blob/master/Screenshot%20(168).png)
-SVM Model give max. accuracy of 83%, also voting classifier model is second most accurate
+### SVM Model give max. accuracy of 83%, also voting classifier model is second most accurate
