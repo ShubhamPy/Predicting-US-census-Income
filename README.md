@@ -27,4 +27,4 @@ The data here is for the "Census Income" dataset, which contains data on adults 
 - [ ] Build a classification model for the classification of income.
 - [ ] Try different classifiers and compare the accuracy of all the classifiers.
 
-## Results:
+
